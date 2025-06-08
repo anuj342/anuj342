@@ -16,4 +16,4 @@ Linux & Open Source Contributions
 
 Burpsuite
 
-📫 Reach out: LinkedIn | anuj@example.com
+📫 Reach out: www.linkedin.com/in/anuj-nalawade-806933251 | anujnalawade644@gmail.com
