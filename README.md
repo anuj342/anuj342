@@ -1,4 +1,6 @@
-👋 Hi, I'm Anuj — a cybersecurity enthusiast and developer passionate about making the web safer.
+# Anuj Nalawade
+
+## A cybersecurity enthusiast and developer passionate about making the web safer.
 
 🔒 I specialize in finding and mitigating web vulnerabilities, and I enjoy building tools that enhance security and performance.
 
