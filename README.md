@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Nalawade</h1>
-- 🔭 I’m currently working on **Multi‑Cloud IAM Policy Visualizer**
+-  I’m currently working on **Multi‑Cloud IAM Policy Visualizer**
 
-- 🌱 I’m currently learning **Django, Networking, automation, and AWS.**
+-  I’m currently learning **Django, Networking, automation, and AWS.**
 
-- 📫 How to reach me **anujnalawade644@gmail.com**
+-  How to reach me **anujnalawade644@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj342&show_icons=true&locale=en" alt="anuj342" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj342&" alt="anuj342" /></p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anuj342&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
