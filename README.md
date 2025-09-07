@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I'm Anuj, a B.tech CSIT student specializing in cybersecurity. I love combining cybersecurity and full-stack development to make secure, scalable web apps. Hunting vulnerabilities, building scanners, and automating recon are my jam. I believe in learning by doing and breaking (my own) stuff to learn.<br>I'm currently building Multi‑Cloud IAM Policy Visualizer which cross-checks all the permissions and privilges given to a user thus preventing a common risk of privilege escalation and solving a real-world issue.<br>
+Hi! I'm Anuj, a B.tech CSIT student specializing in cybersecurity. Passionate about solving problems at the intersection of Machine Learning, Cloud Computing, Automation, Networking, and Cybersecurity.
+I love building scalable, secure, and intelligent systems that bridge data-driven intelligence with robust infrastructure.<br>
 
 
 ## 🌐 Socials:
