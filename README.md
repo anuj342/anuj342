@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Anuj, a B.tech CSIT student specializing in cybersecurity. Passionate about solving problems at the intersection of Machine Learning, Cloud Computing, Automation, Networking, and Cybersecurity.
+Hi! I'm Anuj, a B.tech CSIT student specializing in cybersecurity. Passionate about solving problems at the intersection of Cloud Computing, Automation, Networking, and Cybersecurity.
 I love building scalable, secure, and intelligent systems that bridge data-driven intelligence with robust infrastructure.<br>
 
 
